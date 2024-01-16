@@ -1,4 +1,4 @@
-*** Desafio de código Kotlin***
+//Desafio de código Kotlin//
     
 enum class Nivel { BASICO, INTERMEDIARIO, DIFICIL }
 
